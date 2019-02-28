@@ -4,6 +4,9 @@
 
 ## ¿Cómo lo hace?
    Se crea una clase intermediaria entre la la interface y la clase que implementa los metodos cuando se necesita crea un metodo pa petición pasa por el proxy para ver si es necesario crearlo oh ya había creado con anterioridad.
+
+## Estructura
+![alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjI9qa77d7gAhUGPK0KHRuYCQYQjRx6BAgBEAU&url=http%3A%2F%2Fwww.danielcostas.com%2Fpatrones-de-diseno%2F&psig=AOvVaw1Q9yCUCYz9XY4WIW02McPw&ust=1551457928042162)
 ## Ventajas: 
 ---- Es muy bueno la para la seguridad 
 ---- No se crea ningún objeto hasta que sea necesario
